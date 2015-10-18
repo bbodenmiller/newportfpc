@@ -1,0 +1,1 @@
+# newportfpc.org config details
